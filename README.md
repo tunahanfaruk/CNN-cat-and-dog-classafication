@@ -1,2 +1,5 @@
 # CNN-cat-and-dog-classafication
-this this model has got 5 cnn layers and has got 92.77 accuracy
+model type = CNN
+CNN layer = 6
+used dataset = https://www.kaggle.com/datasets/tongpython/cat-and-dog
+accuracy = 92.77
